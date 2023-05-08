@@ -24,7 +24,7 @@ body{
 }
 .upper-left-column{
     position: relative;
-    left: 3%;
+    left: 2%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
